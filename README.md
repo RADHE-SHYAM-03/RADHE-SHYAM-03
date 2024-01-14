@@ -41,3 +41,4 @@ Feel free to explore the repositories and provide feedback or collaborate on any
 - **Email:** [radheyshayam2005@gmail.com](mailto:radheyshayam2005@gmail.com)
 
 Thank you for visiting my GitHub profile! 🚀
+[![RADHE-SHYAM-03's GitHub | Stats](https://stats.quine.sh/RADHE-SHYAM-03/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RADHE-SHYAM-03)
