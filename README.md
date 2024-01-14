@@ -27,6 +27,7 @@ Explore some of the projects I've been working on:
 ### StudySync Responsive Website
 
 - **Description:** The StudySync Responsive Website project showcases my expertise in frontend web development and responsive design. Built using HTML and CSS, the website provides an optimized user experience across various devices without the use of JavaScript. Its focus is on delivering a clean and intuitive interface for StudySync users, ensuring accessibility and functionality.
+- <h2>Here is link : https://studysync-by-sham-dravid.netlify.app/</h2>
 
 ### Netflix Clone
 
