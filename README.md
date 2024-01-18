@@ -26,12 +26,12 @@ Explore some of the projects I've been working on:
 
 ### StudySync Responsive Website
 
-- **Description:** The StudySync Responsive Website project showcases my expertise in frontend web development and responsive design. Built using HTML and CSS, the website provides an optimized user experience across various devices without the use of JavaScript. Its focus is on delivering a clean and intuitive interface for StudySync users, ensuring accessibility and functionality.
+- **Description:** The StudySync Responsive Website project showcases my expertise in frontend web development and responsive design. Built using HTML and CSS, the website provides an optimized user experience. Its focus is on delivering a clean and intuitive interface.
 - <h3>Here is link : https://studysync-by-sham-dravid.netlify.app/</h3>
 
 ### Netflix Clone
 
-- **Description:** The Netflix Clone project is a frontend development endeavor aimed at replicating the visual experience of the popular streaming platform without relying on JavaScript. Developed using HTML and CSS, this clone prioritizes a clean and responsive design to mimic the Netflix user interface. While the absence of JavaScript limits some dynamic features, the project serves as a demonstration of my frontend skills in crafting visually cohesive and engaging web applications. It highlights the importance of thoughtful design and presentation in creating user-friendly interfaces.
+- **Description:** The Netflix Clone project is a endeavor aimed at replicating the visual experience of the popular streaming platform without relying on JavaScript. Developed using HTML and CSS, this clone prioritizes a clean and responsive design to mimic the Netflix user interface.It highlights the importance of thoughtful design and presentation in creating user-friendly interfaces.
 
 Feel free to explore the repositories and provide feedback or collaborate on any interesting projects!
 
