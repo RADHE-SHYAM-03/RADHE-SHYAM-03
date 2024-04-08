@@ -17,7 +17,7 @@ I possess a diverse skill set, with proficiency in a range of technologies:
 
 ### Cognifyz Technologies - Web Development Intern
 
-As a Web Development Intern at Cognifyz Technologies, I delved into real-world projects, honing my skills in web development. My contributions included [mention specific tasks or projects], where I applied my expertise in [mention relevant skills or technologies used]. This internship experience has been invaluable, providing insights into professional development practices and enhancing my understanding of the intricate aspects of web technologies.
+As a Web Development Intern at Cognifyz Technologies, I delved into real-world projects, honing my skills in web development.Where I applied my expertise in HTML5, CSS3 & JAVASCRIPT . This internship experience has been invaluable, providing insights into professional development practices and enhancing my understanding of the intricate aspects of web technologies.
 
 ## Projects
 
@@ -28,10 +28,10 @@ Explore some of the projects I've been working on:
 - **Description:** The StudySync Responsive Website project showcases my expertise in frontend web development and responsive design. Built using HTML and CSS, the website provides an optimized user experience. Its focus is on delivering a clean and intuitive interface.
 - <h3>Here is link : https://studysync-by-sham-dravid.netlify.app/</h3>
 
-### Netflix Clone
+### SPOTIFY Clone
 
-- **Description:** The Netflix Clone project is a endeavor aimed at replicating the visual experience of the popular streaming platform without relying on JavaScript. Developed using HTML and CSS, this clone prioritizes a clean and responsive design to mimic the Netflix user interface.It highlights the importance of thoughtful design and presentation in creating user-friendly interfaces.
-
+- **Description:** The SPOTIFY Clone project is a endeavor aimed at replicating the visual experience of the popular streaming platform without relying on JavaScript. Developed using HTML and CSS, this clone prioritizes a clean and responsive design to mimic the SPOTIFY user interface.It highlights the importance of thoughtful design and presentation in creating user-friendly interfaces.
+- <h3>Here is link : https://spotify-by-sham-dravid.netlify.app</h3>
 Feel free to explore the repositories and provide feedback or collaborate on any interesting projects!
 
 ## Connect with Me
