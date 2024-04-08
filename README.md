@@ -11,7 +11,6 @@ I possess a diverse skill set, with proficiency in a range of technologies:
 - **Web Development:** I specialize in web technologies, including HTML, CSS, and JavaScript, as demonstrated by projects like the StudySync Responsive Website and the Netflix Clone. Crafting seamless and visually appealing user interfaces is a key focus of my work.
 - **Git/GitHub:** Proficient in version control, I leverage Git and GitHub for collaborative and organized development, ensuring a smooth workflow.
 - **SQL and MySQL:** My knowledge of database management systems allows me to design and implement effective data storage solutions.
-- **Operating Systems:** A solid understanding of operating systems enhances my ability to create software that seamlessly integrates with various platforms.
 - **Webflow:** My skills in Webflow further extend my capabilities in web design and development, adding a dynamic aspect to my projects.
 
 ## Experience
