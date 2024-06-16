@@ -1,6 +1,6 @@
 # About Me
 
-Hello! 👋 I'm Radhe Shyam, a dedicated and forward-thinking student currently in my 2nd year of Diploma in Computer Science and Engineering at **Govt Polytechnic Panchkula**. My journey in the world of technology has been a thrilling exploration, marked by hands-on experience and a passion for software development.
+Hello! 👋 I'm Radhe Shyam, a dedicated and forward-thinking student currently in my final year of Diploma in Computer Science and Engineering at **Govt Polytechnic Panchkula**. My journey in the world of technology has been a thrilling exploration, marked by hands-on experience and a passion for software development.
 
 ## Skills
 
