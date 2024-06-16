@@ -21,8 +21,6 @@ As a Web Development Intern at Cognifyz Technologies, I delved into real-world p
 
 ## Projects
 
-Explore some of the projects I've been working on:
-
 ### StudySync Responsive Website
 
 - **Description:** The StudySync Responsive Website project showcases my expertise in frontend web development and responsive design. Built using HTML and CSS, the website provides an optimized user experience. Its focus is on delivering a clean and intuitive interface.
